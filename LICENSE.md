@@ -1,0 +1,1 @@
+This application does not require any special permissions. It also does not collect any data, nor is any personal or usage data transmitted to the application's developer or third-party servers. It's just a calculator, after all.
